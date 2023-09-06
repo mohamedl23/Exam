@@ -66,7 +66,9 @@ req.addEventListener('readystatechange',function(){
                     document.querySelector("#ContactUs").classList.add("d-none");
                     document.querySelector("#Search").classList.add("d-none");
                     document.querySelector("#home").classList.add("d-none")
-                    document.querySelector("#AreaData").classList.add("d-none");
+                    document.querySelector("#AreaData").classList.add("d-none");                   
+                    document.querySelector("#CategoriesData").classList.add("d-none");
+                    
                      
                 });
             })

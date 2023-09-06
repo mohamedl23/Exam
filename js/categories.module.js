@@ -9,6 +9,16 @@ export class Categories {
       document.querySelector("#Search").classList.add("d-none");
       document.querySelector("#ContactUs").classList.add("d-none");
       document.querySelector("#AreaData").classList.add("d-none");
+      document.querySelector("#CategoriesData").classList.add("d-none");
+      document.querySelector("#Ingredients").classList.add("d-none");
+      
+      
+            
+            
+            
+            
+            
+           
     });
     let that = this ;
     let allCaegory = [];

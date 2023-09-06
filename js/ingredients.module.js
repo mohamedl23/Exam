@@ -9,6 +9,9 @@ export class Ingredients {
             document.querySelector("#Search").classList.add("d-none");
             document.querySelector("#Ingredients").classList.remove("d-none");
             document.querySelector("#AreaData").classList.add("d-none");
+            document.querySelector("#ContactUs").classList.add("d-none");         
+            document.querySelector("#CategoriesData").classList.add("d-none");
+            
             
         })
 
