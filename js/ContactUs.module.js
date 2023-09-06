@@ -9,6 +9,7 @@ export class ConatactUs{
             document.querySelector("#ContactUs").classList.remove("d-none");
             document.querySelector("#homeData").classList.add("d-none")
             document.querySelector("#Search").classList.add("d-none");
+            document.querySelector("#AreaData").classList.add("d-none");
             
             
         })
